@@ -1,6 +1,6 @@
 # Mail Service
 
-This is a RESTful API service for serving mails for other services in a microservice architecture.
+This is a web service for serving mails for other services in a microservice architecture.
 
 ## Technologies Used
 
