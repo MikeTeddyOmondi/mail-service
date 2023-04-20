@@ -52,6 +52,7 @@ async function sendMail(data) {
     context: {
       title: "Registration Successful ✔",
       username: capitalize(data.username),
+      url: data.url,
     },
   };
 
